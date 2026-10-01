@@ -3,16 +3,12 @@
 
 cff-version: 1.2.0
 message: "If you use this software, please cite it as below." 
-title: "CESSDA xxx.xxx"
+title: "EOSC Data Player Demo"
 type: software
 doi: 10.5281/zenodo.000000
-url: "https://github.com/cessda/cessda.xxx.xxx"
+url: "https://github.com/john-shepherdson/eosc.data-player.demo.git"
 authors:
-  - given-names: "Given"
-    family-names: "Family"
-    affiliation: "CESSDA ERIC"
-    orcid: "https://orcid.org/0000-0000-0000-0000"
-  - given-names: "Given"
-    family-names: "Family"
-    affiliation: "CESSDA ERIC"
-    orcid: "https://orcid.org/0000-0000-0000-0000"
+  - given-names: "John"
+    family-names: "Shepherdson"
+    affiliation: "Project Consultant"
+    orcid: "https://orcid.org/0000-0002-4402-9644"
