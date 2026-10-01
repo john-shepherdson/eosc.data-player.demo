@@ -61,3 +61,7 @@ nbdist/
 .nb-gradle/
 .vscode/
 bin/
+
+# Python virtual environment
+.venv/
+__pycache__/
